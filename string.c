@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int my_strlen(char *s)
+size_t my_strlen(char *s)
 {
    char *p = s;
 
@@ -23,4 +23,4 @@ int main(void)
 ", s[i], my_strlen(s[i]));
 
    return 0;
-}
+ }
