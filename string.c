@@ -23,4 +23,4 @@ int main(void)
 ", s[i], my_strlen(s[i]));
 
    return 0;
- }
+}
