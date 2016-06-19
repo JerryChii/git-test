@@ -1,2 +1,2 @@
 Class hh {
-}
+psvm}
